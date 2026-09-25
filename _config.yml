@@ -18,6 +18,10 @@ description: Project to practice web development.
 # Your name to show in the footer
 author: Tesia Bernal Mancilla
 
+#define site url
+
+url: https://tbernalm.github.io/beautiful-jekyll/
+
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
