@@ -143,7 +143,7 @@ navbar-var-length: false
 pnavbar-col: "#DDD2FE"
 navbar-text-col: "#404040"
 navbar-children-col: "#FDD734"
-page-col: "#B4D9EF"
+page-col: "#F2F0EF"
 link-col: "#7BAFD4"
 hover-col: "#8ABF91"
 footer-col: "#CDECCF"
