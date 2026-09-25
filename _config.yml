@@ -20,7 +20,8 @@ author: Tesia Bernal Mancilla
 
 #define site url
 
-url: https://tbernalm.github.io/beautiful-jekyll/
+url: https://tbernalm.github.io
+baseurl: /beautiful-jekyll/
 
 ###############################################
 # --- List of links in the navigation bar --- #
